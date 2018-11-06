@@ -25,7 +25,7 @@ SECRET_KEY = 'ne$#t+0a-%&-nn515*zzc9ro*$ik6(b6$izr8lx_y)aunne*71'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'matiotous.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'matio.pythonanywhere.com']
 
 
 # Application definition
